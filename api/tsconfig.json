@@ -1,0 +1,21 @@
+{
+   "compileOnSave": true,
+   "exclude": [
+      "node_modules"
+   ],
+   "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "sourceMap": true,
+      "types": [
+         "reflect-metadata"
+      ],
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "esModuleInterop": true,
+      "outDir": "dist",
+      "inlineSources": true,
+      "noImplicitAny": false,
+      "skipLibCheck": true
+   }
+}
